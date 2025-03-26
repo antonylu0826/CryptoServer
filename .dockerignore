@@ -1,0 +1,35 @@
+# 版本控制
+.git
+.gitignore
+
+# 開發環境
+.vs/
+.vscode/
+*.user
+*.suo
+
+# 構建輸出
+bin/
+obj/
+Debug/
+Release/
+
+# 依賴項
+packages/
+
+# 測試
+TestResults/
+*.trx
+
+# 日誌
+logs/
+*.log
+
+# 環境文件
+*.env
+.env.*
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose* 

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XVUNbQt4GSfh0U87IOoj1rhvKmDHpj8vogoH0rTiApE=",
+  "Source": "CryptoServer",
+  "BasePath": "_content/CryptoServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

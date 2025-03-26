@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AAZDoIrIxvA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anthony.MAXECHO\\Desktop\\CryptoServer\\CryptoServer\\CryptoServer.csproj",
+  "expectedPackageFiles": [
+    "D:\\Nuget\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "D:\\Nuget\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
