@@ -31,3 +31,4 @@ C:\Users\anthony.MAXECHO\Desktop\CryptoServer\cryptoserver\obj\Debug\net9.0\refi
 C:\Users\anthony.MAXECHO\Desktop\CryptoServer\cryptoserver\obj\Debug\net9.0\CryptoServer.pdb
 C:\Users\anthony.MAXECHO\Desktop\CryptoServer\cryptoserver\obj\Debug\net9.0\CryptoServer.genruntimeconfig.cache
 C:\Users\anthony.MAXECHO\Desktop\CryptoServer\cryptoserver\obj\Debug\net9.0\ref\CryptoServer.dll
+C:\Users\anthony.MAXECHO\Desktop\CryptoServer\CryptoServer\obj\Debug\net9.0\CryptoServer.sourcelink.json
